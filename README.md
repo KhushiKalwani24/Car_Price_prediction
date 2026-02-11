@@ -1,5 +1,5 @@
 🚗 Car Price Prediction
-https://automanager.blob.core.windows.net/wmclients/003490/images/eas-main-location-1.jpg
+
 📌 Overview
 
 Predicting the price of a used car is a complex task influenced by multiple factors such as brand, fuel type, transmission, mileage, and more.
